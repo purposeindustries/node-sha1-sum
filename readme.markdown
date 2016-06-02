@@ -1,5 +1,7 @@
 # sha1-sum
 
+[![Build Status](https://travis-ci.org/purposeindustries/node-sha1-sum.svg?branch=master)](https://travis-ci.org/purposeindustries/node-sha1-sum)
+
 > SHA1 sum of a file
 
 ## install
