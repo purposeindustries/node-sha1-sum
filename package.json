@@ -1,0 +1,30 @@
+{
+  "name": "sha1-sum",
+  "version": "1.0.0",
+  "description": "SHA1 sum of a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R dot test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purposeindustries/node-sha1-sum.git"
+  },
+  "keywords": [
+    "sha1",
+    "hash",
+    "crypto"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-sha1-sum/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-sha1-sum#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
